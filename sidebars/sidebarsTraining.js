@@ -22,7 +22,7 @@
         'graph-basics/basic-knowledge-graph-property',
       ],
     },
+    'practice-cloud-deployment',
   ],
-  
   };
   
